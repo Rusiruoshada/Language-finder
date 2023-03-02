@@ -1,0 +1,24 @@
+{
+  "name": "language-finder",
+  "version": "1.0.0",
+  "description": "when user type a pharse it shows the language",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rusiruoshada/Language-finder.git"
+  },
+  "author": "ROMs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rusiruoshada/Language-finder/issues"
+  },
+  "homepage": "https://github.com/Rusiruoshada/Language-finder#readme",
+  "dependencies": {
+    "franc": "^6.1.0",
+    "langs": "^2.0.0"
+  }
+}
